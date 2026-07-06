@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Tanmay Tripathi.
-- 👀 I’m upskilling myself in Data Analytics.
 - 🌱 I’m enhancing my SQL, Excel, Python, Power BI, and Tableau skills.
 - **Technical Skills:**
 
